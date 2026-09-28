@@ -1,0 +1,8 @@
+Analysis,Result
+Hypothesis Testing,P-value = 0.0000
+95% Confidence Interval,5938.15 to 7730.93
+Simple Linear Regression,R² = 0.2191
+Multiple Linear Regression,R² = 0.8961
+LDA Classification,F1-Score = 0.0784
+Logistic Regression,F1-Score = 0.4384
+Random Forest,F1-Score = 0.2414

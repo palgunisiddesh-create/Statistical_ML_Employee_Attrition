@@ -1,0 +1,27 @@
+
+FINAL PROJECT CONCLUSION
+
+The project demonstrates the application of statistical machine learning
+techniques for employee attrition analysis and prediction.
+
+Data cleaning and exploratory data analysis were performed to understand
+the structure, distribution, relationships, and patterns in the dataset.
+
+Sampling distribution and a 95% confidence interval were calculated for
+Monthly Income. The confidence interval was 5938.15 to 7730.93.
+
+A Welch independent samples t-test was performed to examine the difference
+in Monthly Income between employees who stayed and employees who left.
+The obtained p-value was 0.0000.
+
+Simple and multiple linear regression models were developed to analyze
+Monthly Income. The R² values were 0.2191 and 0.8961,
+respectively.
+
+LDA, Logistic Regression, and Random Forest were applied for employee
+attrition classification. Accuracy, Precision, Recall, and F1-Score were
+used to evaluate the classification models.
+
+Overall, the project demonstrates how statistical analysis and machine
+learning can be integrated to study employee attrition and workforce
+patterns using Statistical Machine Learning techniques.

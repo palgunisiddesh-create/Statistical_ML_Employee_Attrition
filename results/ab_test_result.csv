@@ -1,0 +1,2 @@
+Test,Metric,Group A,Group B,Group A Mean,Group B Mean,t-statistic,p-value,Significance Level
+A/B Test,Monthly Income,Stayed,Left,6832.739659367397,4787.0928270042195,7.482621586644742,4.433588628286071e-13,0.05

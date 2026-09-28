@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1_Score
+Linear Discriminant Analysis,0.8401360544217688,0.5,0.0425531914893617,0.0784313725490196

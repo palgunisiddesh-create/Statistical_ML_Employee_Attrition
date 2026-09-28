@@ -1,0 +1,2 @@
+Test,Variable,Group 1,Group 2,t-statistic,p-value,Significance Level
+Independent t-test,Monthly Income,Attrition = Yes,Attrition = No,-7.482621586644742,4.433588628286071e-13,0.05
